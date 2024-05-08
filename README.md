@@ -1,4 +1,4 @@
-### EX-04 <p align="center"><b># FULL_ADDER_SUBTRACTOR</b> 
+### EX-04 <p align="center"><b> FULL_ADDER_SUBTRACTOR</b> 
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
